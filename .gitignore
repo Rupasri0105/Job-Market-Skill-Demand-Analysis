@@ -3,4 +3,5 @@ dist
 .cache
 dashboard/node_modules
 dashboard/node_modules/.cache
+dashboard/node_modules/.cache/gh-pages
 backend/node_modules
